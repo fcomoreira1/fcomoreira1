@@ -23,7 +23,7 @@ On the side, I am excited about specialty coffee and spend the necessary time to
 - **BSc Thesis @ Huawei Paris Research Center** - Worked on efficient Transformer design.
 - **Research intern @ Huawei Paris Research Center** - Worked on memory allocation for parallel deep neural network training.
 - **Quantitative analyst intern @ Metrix**
-- **Math Olympiad Tutor @ Ari de Sa Cavalcante**
+- **Math Olympiad Tutor**
   
 ## 🏆 Awards & Honors
 - **ETH Excellence Scholarship & Opportunity Programme (ESOP)**
