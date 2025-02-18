@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm an MSc student at ETH Zurich doing an AI major (machine intelligence) with a data management systems minor. I also recently graduated BSc in CS and math with Summa Cum Laude at École Polytechnique. 
 
-I am particularly passionate about AI research, particularly in LLMs, gen AI, and large-scale data systems. The research topics I have been working on recently are LLM backdooring/model poisoning and AI for math. As an international math olympiad silver medalist, it is exciting to see the advancements in formal theorem proving and to give my contribution to this effort! Previously I explored efficient Transformer design during my BSc thesis and generative seismic data modeling during an exchange semester at ETHZ.
+I am particularly passionate about AI research, particularly in LLMs, gen AI, and large-scale data systems. The research topics I have been working on recently are LLM backdooring/model poisoning and AI for math. As a math olympiad medalist, it is exciting to see the advancements in formal theorem proving and to give my contribution to this effort! Previously I explored efficient Transformer design during my BSc thesis and generative seismic data modeling during an exchange semester at ETHZ.
 
 On the side, I am excited about specialty coffee and spend the necessary time to extract the most of the amazing beans I get access to. I enjoy running especially to explore new places; traveling and trying the best food spots around; reading about health or productivity but also sporadically historical literature and romances; watching football!
 
