@@ -15,7 +15,7 @@ On the side, I am excited about specialty coffee and spend the necessary time to
 - **Better LLM Backdoor** - Researching stealthier triggering mechanisms and outputs in LLM backdoor attacks; conducted at the [ETH SRI lab](https://www.sri.inf.ethz.ch/)
 - **[Project Numina](https://projectnumina.ai/)** - Contributor to autoformalization and formal theorem proving with LLMs.
 - **Generative Seismic Modeling** - GAN-based generation of high-quality seismic waveforms; conducted with the Swiss Data Science Center.
-- **Better Sampling for Class-Incremental Learning** - Developed a prototype-based sampling method for CIL based on the relationship between catastrophic forgetting and feature space representations.
+- **Prototype-based Sampling for Class-Incremental Learning** - Developed a prototype-based sampling method for CIL based on the relationship between catastrophic forgetting and feature space representations.
 - **Robustness Verification** - Implemented a convex-relaxation-based verifier for neural network robustness.
 - **Siamese Networks for Few-shot Learning** - Explored few-shot learning with Omniglot dataset and compared the performance of Siamese Network architecture with statistical and clustering methods. 
 - **Face Identification System** - Led a 13-person team building a C++ & OpenCV-based authentication system using statistical methods.
